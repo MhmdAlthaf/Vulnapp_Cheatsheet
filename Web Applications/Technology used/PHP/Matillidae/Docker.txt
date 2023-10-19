@@ -1,0 +1,9 @@
+1. "git clone https://github.com/webpwnized/mutillidae-docker.git"
+2. "cd mutilldae-docker"
+3. "docker-compose up" 
+4. Now browse 127.0.0.1 
+- Port 80, 8080: Mutillidae HTTP web interface
+- Port 81: MySQL Admin HTTP web interface
+- Port 82: LDAP Admin web interface
+- Port 443: HTTPS web interface
+- Port 389: LDAP interface

@@ -1,0 +1,6 @@
+1. Download the bWAPP https://sourceforge.net/projects/bwapp/files/bee-box/
+2. Extract the zip file 
+3. Open virtualbox 
+4. Give the folder machine and name it 
+5. now choose hardisk bwapp vmdk
+6. Start and Run

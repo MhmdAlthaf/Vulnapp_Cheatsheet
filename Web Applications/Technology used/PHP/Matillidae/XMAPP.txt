@@ -1,0 +1,9 @@
+1. Download and Install XMAPP https://www.apachefriends.org/download.html
+2. "cd Downloads" 
+3. "chmod +x xampp-linux-x64-8.2.4-0-installer.run"
+4. "./xampp-linux-x64-8.2.4-0-installer.run"
+5. Take note that XAMPP is installed on /opt/lampp
+6. Now download matillidae 
+7. "cp -r mutillidae /opt/lampp/htdocs"
+8. start the xmapp "sudo ./xampp start"
+9. Now browse **http://[Kalilinx IP Address]/mutillidae**

@@ -1,0 +1,15 @@
+1. "git clone https://github.com/digininja/DVWA.git"
+2. "mv DVWA /var/www/html"
+3. "service apache2 start"
+4. Now browse [localhost/DVWA](http://localhost/DVWA) 
+5. Shows error
+6. "cd DVWA"
+7. "cp config/config.inc.php.dist config/config.inc.php"
+8. "service mariadb start"
+9. type sql and click enter 
+10. enter the queries in the db 
+- "mysql> create database dvwa;"
+- "create user dvwa@localhost identified by 'p@ssw0rd';"
+- "grant all on dvwa.* to dvwa@localhost;"
+- "mysql> flush privileges;"
+11. Now the login page will be visible and good to access localhost/DVWA/login.php

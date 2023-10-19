@@ -1,0 +1,5 @@
+1. download dvwa https://github.com/digininja/DVWA#download
+2. extract the file 
+3. "cd DVWA"
+4. "docker compose up -d"
+5. Noe browse [http://localhost:4280](http://localhost:4280/)
